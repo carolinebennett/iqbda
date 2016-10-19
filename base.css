@@ -1,0 +1,12 @@
+#page-header h1 {
+  font: bold italics 3em, "Georgia", "Times", serif;
+}
+#page-header h2 {
+  font: bold italics 1.5em, "Georgia", "Times", serif;
+}
+#content h2 {
+  font: bold 1.8em, "Georgia", "Times", serif;
+}
+div {
+  font: lem, "Verdana", "Helvetica", "Arial", serif;
+}
